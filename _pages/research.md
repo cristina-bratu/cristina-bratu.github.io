@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Working papers
 
-[**Firm- and individual-level responses to labor immigration**](../assets/files/Bratu_jmp.pdf) (*Job market paper*)
+[**Firm- and individual-level responses to labor immigration**](../assets/files/Bratu_jmp.pdf) 
 
 Labor immigration is an important tool that countries can use to address labor shortages. The design of labor immigration policies may affect flows and the composition of immigrant workers, which can in turn have an effect on firms and workers in the host country. I quantify such effects by studying a major Swedish reform that made it significantly easier for firms to recruit non-Europeans. Using a difference-in-differences setup, I exploit variation in the strictness of immigration rules which affected industries differentially before and after the reform. Treated industries are predominantly lower-skilled, and concentrated in sectors like hotels and restaurants and retail trade sectors. Using linked employer-employee data, I study the effect of the reform on both firm-level and individual-level outcomes. I find that the mean earnings at firms in treated industries unambiguously increase. Firms also seem to take advantage of skill complementarities between natives and immigrants and intensify their overall hiring of high-skilled workers. Moreover, I follow native incumbents' employment and earnings over time and find heterogeneous effects along the skill and age dimensions. Both low-skilled and high-skilled domestic workers tend to have higher earnings, with the latter experiencing a relatively larger increase. Young low-skilled natives are less complementary to the newcomers than older low-skilled. Overall, results are largely consistent with skill complementarity models.
 
@@ -21,5 +21,5 @@ We use administrative Swedish data to show that, conditional on parent income, i
 
 ## Work in progress
 
-**Age at immigration and later life outcomes** (with [Valentin Bolotnyy](https://scholar.harvard.edu/bolotnyy))
+**Age at immigration and housing outcomes** (with [Valentin Bolotnyy](https://scholar.harvard.edu/bolotnyy))
 
