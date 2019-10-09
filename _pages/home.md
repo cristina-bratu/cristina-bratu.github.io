@@ -4,4 +4,4 @@ permalink: /index.html
 
 Welcome to my website! 
 
-I am a PhD candidate in Economics at Uppsala University. I am a labor economist and my work is mostly on immigration questions. Read my CV [here](../assets/files/CBratu_CV_June_2019.pdf). 
+I am a a postdoctoral researcher at the Department of Economics at [Aalto University] (https://www.aalto.fi/en/department-of-economics). My work focuses on questions related to immigration and urban economics. Read my CV [here](../assets/files/CBratu_CV_October_2019.pdf). 

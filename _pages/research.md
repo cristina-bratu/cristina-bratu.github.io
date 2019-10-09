@@ -23,5 +23,5 @@ permalink: /research/
 
 ## Work in progress
 
-**Age at immigration and housing outcomes** (with [Valentin Bolotnyy](https://scholar.harvard.edu/bolotnyy))
+**Home Ownership among Children of Immigrants - the Role of Parental Background and Age at Immigration** (with [Valentin Bolotnyy](https://scholar.harvard.edu/bolotnyy)) <em> Email me for latest version </em>
 
