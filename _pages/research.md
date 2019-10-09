@@ -23,5 +23,5 @@ permalink: /research/
 
 ## Work in progress
 
-**Home Ownership among Children of Immigrants - the Role of Parental Background and Age at Immigration** (with [Valentin Bolotnyy](https://scholar.harvard.edu/bolotnyy)) <em> Email me for latest version </em>
+**Home ownership among children of immigrants - the role of parental background and age at immigration** (with [Valentin Bolotnyy](https://scholar.harvard.edu/bolotnyy)) <em> Email me for latest version </em>
 
