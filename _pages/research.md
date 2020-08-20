@@ -4,12 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-## Working papers
+## Publications
 
-[**Spillover effects of immigration policies**](../assets/files/spillover_paper_apr2020.pdf) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712), [Mattias Engdahl](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Mattias-Engdahl/) and [Till Nikolka](https://www.dji.de/en/about-us/employees/detailview/mitarbeiter/till-nikolka.html)) <em> Conditionally accepted, Journal of Public Economics </em>
+[**Spillover effects of immigration policies**](https://authors.elsevier.com/c/1bYt3Alw9itld) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712), [Mattias Engdahl](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Mattias-Engdahl/) and [Till Nikolka](https://www.dji.de/en/about-us/employees/detailview/mitarbeiter/till-nikolka.html)) <em> Forthcoming, Journal of Public Economics </em>
 
 <!-- We evaluate the importance of spillover effects of national migration policies by estimating the effect of stricter rules on family reunification in Denmark in 2002 on migration to neighboring countries. We reach two main conclusions. First, we show that stricter rules for reunification lead to a clear and significant increase in emigration of Danish citizens with immigrant background. Most of the emigrants left Denmark for Sweden, a neighboring country in which reunification was possible. Second, we demonstrate that a significant fraction of the individuals that came to Sweden to reunite with a partner left the country again; within two (eight) years around 20% (50%) had left, with the absolute majority leaving for Denmark. Our results indicate that potential spillover effects from national migration policies should be taken into account when forming migration policy. -->
 
+## Working papers
 
 **Firm- and individual-level responses to labor immigration** <em> New version coming soon </em>
 
@@ -29,8 +30,9 @@ permalink: /research/
 
 **Deregulation and social housing** (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
 
+<!--
 **Untitled residential integration project** (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712) and [Madhinee Valeyatheepillay](https://www.ifo.de/en/valeyatheepillay-m))
 
-<!-- **Home ownership among children of immigrants - the role of parental background and age at immigration** (with [Valentin Bolotnyy](https://scholar.harvard.edu/bolotnyy)) <em> Email me for latest version </em>
+ **Home ownership among children of immigrants - the role of parental background and age at immigration** (with [Valentin Bolotnyy](https://scholar.harvard.edu/bolotnyy)) <em> Email me for latest version </em>
 
  -->
