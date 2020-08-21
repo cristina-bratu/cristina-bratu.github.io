@@ -22,7 +22,7 @@ permalink: /research/
 <!-- We use administrative Swedish data to show that, conditional on parent income, immigrant children have similar incomes and higher educational attainment in adulthood than native-born Swedes. This result, however, masks the fact that immigrant children born into poor families are more likely than similar natives to both reach the top of the income distribution and to stay at the bottom. Immigrant children from high-income families are also more likely than natives to regress to the economic bottom. Notably, however, children from predominantly-refugee sending countries like Bosnia, Syria, and Iran have higher intergenerational mobility than the average immigrant child in Sweden.
  -->
 
-## Work in progress
+## Selected work in progress
 
 **Perceptions of Intergenerational Mobility: Causes and Consequences** (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/) and [Siddharth George](https://sites.google.com/view/siddharthgeorge/home))
 
