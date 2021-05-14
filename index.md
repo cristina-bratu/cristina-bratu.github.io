@@ -16,7 +16,7 @@ Working on immigration and urban economics questions <br/>
 
 ### Working papers
 
-[Age at arrival and residential integration]((../assets/files/Age_at_Arrival_and_Residential_Integration_20210514.pdf)) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712) and [Madhinee Valeyatheepillay](https://www.ifo.de/en/valeyatheepillay-m))
+[Age at arrival and residential integration](../assets/files/Age_at_Arrival_and_Residential_Integration_20210514.pdf) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712) and [Madhinee Valeyatheepillay](https://www.ifo.de/en/valeyatheepillay-m))
 
 ### Work in progress
 
@@ -24,7 +24,7 @@ Firm productivity and the immigrant-native earnings gap (with [Olof Åslund](htt
 
 Intergenerational mobility of poor immigrants: the role of childhood environment (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> Draft coming soon </em>
 
-Firm- and individual-level responses to labor immigration. <em> Draft coming soon </em>
+Firm- and individual-level responses to labor immigration <em> Draft coming soon </em>
 
 City-wide effects of new construction: evidence from moving chains (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
 
