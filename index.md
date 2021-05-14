@@ -7,7 +7,7 @@ layout: single
 ---
 Postdoctoral researcher in Economics, [Aalto University](https://www.aalto.fi/en/department-of-economics) <br/>
 Working on immigration and urban economics questions <br/>
-[CV](../assets/files/CBratu_CV_September_2020.pdf)
+[CV](../assets/files/CBratu_CV_May_2021.pdf)
 
 
 ### Publications
@@ -16,28 +16,21 @@ Working on immigration and urban economics questions <br/>
 
 ### Working papers
 
-Firm- and individual-level responses to labor immigration. <em> New version coming soon </em>
+[Age at arrival and residential integration]((../assets/files/Age_at_Arrival_and_Residential_Integration_20210514.pdf)) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712) and [Madhinee Valeyatheepillay](https://www.ifo.de/en/valeyatheepillay-m))
 
-<!-- Labor immigration is an important tool that countries can use to address labor shortages. The design of labor immigration policies may affect flows and the composition of immigrant workers, which can in turn have an effect on firms and workers in the host country. I quantify such effects by studying a major Swedish reform that made it significantly easier for firms to recruit non-Europeans. Using a difference-in-differences setup, I exploit variation in the strictness of immigration rules which affected industries differentially before and after the reform. Treated industries are predominantly lower-skilled, and concentrated in sectors like hotels and restaurants and retail trade sectors. Using linked employer-employee data, I study the effect of the reform on both firm-level and individual-level outcomes. I find that the mean earnings at firms in treated industries unambiguously increase. Firms also seem to take advantage of skill complementarities between natives and immigrants and intensify their overall hiring of high-skilled workers. Moreover, I follow native incumbents' employment and earnings over time and find heterogeneous effects along the skill and age dimensions. 
- -->
+### Work in progress
 
-[The intergenerational mobility of immigrants and the native-born: evidence from Sweden](../assets/files/Bolotnyy_Bratu_IGM_20190802.pdf) (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) 
+Firm productivity and the immigrant-native earnings gap (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) <em> Draft coming soon </em>
 
-<!-- We use administrative Swedish data to show that, conditional on parent income, immigrant children have similar incomes and higher educational attainment in adulthood than native-born Swedes. This result, however, masks the fact that immigrant children born into poor families are more likely than similar natives to both reach the top of the income distribution and to stay at the bottom. Immigrant children from high-income families are also more likely than natives to regress to the economic bottom. Notably, however, children from predominantly-refugee sending countries like Bosnia, Syria, and Iran have higher intergenerational mobility than the average immigrant child in Sweden.
- -->
+Intergenerational mobility of poor immigrants: the role of childhood environment (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> Draft coming soon </em>
 
-### Selected work in progress
+Firm- and individual-level responses to labor immigration. <em> Draft coming soon </em>
 
-Firms, productivity and the immigrant-native wage gap (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and Anna Thoresson)
+City-wide effects of new construction: evidence from moving chains (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
 
-Perceptions of intergenerational mobility: causes and consequences (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/) and [Siddharth George](https://sites.google.com/view/siddharthgeorge/home))
+Perceptions of ímmigrant integration: causes and consequences (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/), [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Linna Martén](https://sites.google.com/site/linnamarten/home))
 
-Deregulation and social housing (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
+Long-term effects of a refugee integration program (with [Linna Martén](https://sites.google.com/site/linnamarten/home) and Lillit Ottosson)
 
-<!--
-**Untitled residential integration project** (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712) and [Madhinee Valeyatheepillay](https://www.ifo.de/en/valeyatheepillay-m))
-
- **Home ownership among children of immigrants - the role of parental background and age at immigration** (with [Valentin Bolotnyy](https://scholar.harvard.edu/bolotnyy)) <em> Email me for latest version </em>
-
- -->
+Deregulation of social housing (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
 
