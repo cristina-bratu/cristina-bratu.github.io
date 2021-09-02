@@ -16,17 +16,17 @@ Working on immigration and urban economics questions <br/>
 
 ### Working papers
 
-[Age at arrival and residential integration](../assets/files/Age_at_Arrival_and_Residential_Integration.pdf) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712) and [Madhinee Valeyatheepillay](https://www.ifo.de/en/valeyatheepillay-m))
+[City-wide effects of new housing supply: evidence from moving chains](https://vatt.fi/en/publication?pubid=URN%3AISBN%3A978-952-274-281-0) (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
+
+[Immigrant intergenerational mobility: a focus on childhood environment](../assets/files/BB_IGM_2021.pdf)
+(with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) 
+
+[Age at arrival and residential integration](https://www.cesifo.org/en/publikationen/2021/working-paper/age-arrival-and-residential-integration) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712) and [Madhinee Valeyatheepillay](https://www.ifo.de/en/valeyatheepillay-m))
+
 
 ### Work in progress
 
 Firm productivity and the immigrant-native earnings gap (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) <em> Draft coming soon </em>
-
-Intergenerational mobility of poor immigrants: the role of childhood environment (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> Draft coming soon </em>
-
-Firm- and individual-level responses to labor immigration <em> Draft coming soon </em>
-
-City-wide effects of new construction: evidence from moving chains (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
 
 Perceptions of ímmigrant integration: causes and consequences (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/), [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Linna Martén](https://sites.google.com/site/linnamarten/home))
 
@@ -34,3 +34,6 @@ Long-term effects of a refugee integration program (with [Linna Martén](https:/
 
 Deregulation of social housing (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
 
+### Resting papers
+
+Firm- and individual-level responses to labor immigration 
