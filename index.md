@@ -21,7 +21,7 @@ Working on immigration and urban economics questions <br/>
 [Immigrant intergenerational mobility: a focus on childhood environment](../assets/files/BB_IGM_2021.pdf)
 (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> Revise & Resubmit, European Economic Review </em>
 
-[Firm productivity and immigrant-native earnings disparity] (https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) 
+[Firm productivity and immigrant-native earnings disparity](https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) 
 
 [Age at arrival and residential integration](https://www.cesifo.org/en/publikationen/2021/working-paper/age-arrival-and-residential-integration) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712) and Madhinee Valeyatheepillay)
 
