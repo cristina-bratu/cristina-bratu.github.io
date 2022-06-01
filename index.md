@@ -19,7 +19,11 @@ Working on immigration and urban economics questions <br/>
 [City-wide effects of new housing supply: evidence from moving chains](https://vatt.fi/en/publication?pubid=URN%3AISBN%3A978-952-274-281-0) (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/)) <em> Revise & Resubmit, JUE: Insights </em>
 
 [Immigrant intergenerational mobility: a focus on childhood environment](../assets/files/BB_IGM_2021.pdf)
+<<<<<<< HEAD
 (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> Revised & Resubmitted, European Economic Review </em>
+=======
+(with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> Revise & Resubmit, European Economic Review </em>
+>>>>>>> 239d23d3d3a15c4629d2c4a3ef9594097e954355
 
 [Firm productivity and immigrant-native earnings disparity](https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) 
 
