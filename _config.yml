@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Cristina Bratu"
 title_separator          : "-"
 name                     : "Cristina Bratu"
-description              : "Postdoctoral researcher in Economics"
+description              : "Senior researcher"
 url                      : "https://cristina-bratu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cristina-bratu/cristina-bratu.github.io"
@@ -57,9 +57,9 @@ analytics:
 author:
   name             : "Cristina Bratu"
   avatar           : "/assets/images/IMG_20210528_202026.jpg"
-  bio              : "Postdoctoral researcher in Economics"
+  bio              : "Senior researcher"
   location         : "Helsinki, Finland"
-  email            : cristina.bratu@aalto.fi
+  email            : cristina.bratu@vatt.fi
   #uri              :
   #home             : # null (default), "absolute or relative url to link to author home"
   #github           : cristina-bratu

@@ -5,9 +5,9 @@
 layout: single
 
 ---
-Postdoctoral researcher in Economics, [Aalto University](https://www.aalto.fi/en/department-of-economics) <br/>
+Senior researcher at [VATT Institute for Economic Research](https://vatt.fi/en/frontpage) <br/>
 Working on immigration and urban economics questions <br/>
-[CV](../assets/files/CBratu_CV_May_2021.pdf)
+[CV](../assets/files/CBratu_CV_Oct_2022.pdf)
 
 
 ### Publications
