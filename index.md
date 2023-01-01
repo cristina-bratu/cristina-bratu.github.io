@@ -11,14 +11,15 @@ Working on immigration and urban economics questions <br/>
 
 
 ### Publications
+[City-wide effects of new housing supply: evidence from moving chains](https://vatt.fi/en/publication?pubid=URN%3AISBN%3A978-952-274-281-0) (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/)) <em> Forthcoming, JUE: Insights </em>
+
+[Immigrant intergenerational mobility: A focus on childhood environment](https://www.sciencedirect.com/science/article/pii/S0014292122002331?casa_token=aNXtfcnyKtcAAAAA:Tv2Pn_oKxeBz0L-7EboNVUkgbYwru7X6V5GAKFhshR4cdf2rMRP0hbdrTJihGurZJyuIY3YdXQ) (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> European Economic Review, January 2023, Vol. 151. </em>
 
 [Spillover effects of immigration policies](https://www.sciencedirect.com/science/article/pii/S0047272720301031?casa_token=8jqIHm3RM4cAAAAA:4R-n-iyeU-Cc_rc13HSz4jgEIwV4rtUhBDqMeo9K1OjNKYO4mKK8KnBw5INs6C89lbEQvdcVKrD6) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712), [Mattias Engdahl](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Mattias-Engdahl/) and [Till Nikolka](https://www.dji.de/en/about-us/employees/detailview/mitarbeiter/till-nikolka.html)). <em> Journal of Public Economics, October 2020, Vol. 190. </em>
 
+
 ### Working papers
 
-[City-wide effects of new housing supply: evidence from moving chains](https://vatt.fi/en/publication?pubid=URN%3AISBN%3A978-952-274-281-0) (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/)) <em> Revise & Resubmit, JUE: Insights </em>
-
-[Immigrant intergenerational mobility: a focus on childhood environment](../assets/files/BB_IGM_2022.pdf) (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> Revised & Resubmitted, European Economic Review </em>
 
 [Firm productivity and immigrant-native earnings disparity](https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) 
 
