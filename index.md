@@ -11,7 +11,7 @@ Working on immigration and urban economics questions <br/>
 
 
 ### Publications
-[City-wide effects of new housing supply: evidence from moving chains](https://vatt.fi/en/publication?pubid=URN%3AISBN%3A978-952-274-281-0) (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/)) <em> Forthcoming, JUE: Insights </em>
+[City-wide effects of new housing supply: evidence from moving chains](https://www.sciencedirect.com/science/article/pii/S0094119022001048) (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/)) <em> Forthcoming, JUE: Insights </em>
 
 [Immigrant intergenerational mobility: A focus on childhood environment](https://www.sciencedirect.com/science/article/pii/S0014292122002331?casa_token=aNXtfcnyKtcAAAAA:Tv2Pn_oKxeBz0L-7EboNVUkgbYwru7X6V5GAKFhshR4cdf2rMRP0hbdrTJihGurZJyuIY3YdXQ) (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> European Economic Review, January 2023, Vol. 151. </em>
 
