@@ -19,7 +19,7 @@ Working on immigration and urban economics questions <br/>
 
 
 ### Working papers
-
+[Individualized benefits and access to active labor market programs boost refugee women’s economic integration](http://www.diva-portal.org/smash/get/diva2:1758752/FULLTEXT01.pdf) (with [Linna Martén](https://sites.google.com/site/linnamarten/home) and [Lillit Ottosson](https://sites.google.com/view/lillitottosson/home))
 
 [Firm productivity and immigrant-native earnings disparity](https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) 
 
@@ -29,8 +29,6 @@ Working on immigration and urban economics questions <br/>
 ### Work in progress
 
 Perceptions of ímmigrant integration: causes and consequences (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/), [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Linna Martén](https://sites.google.com/site/linnamarten/home))
-
-Long-term effects of a refugee integration program (with [Linna Martén](https://sites.google.com/site/linnamarten/home) and Lillit Ottosson)
 
 Deregulation of social housing (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
 
