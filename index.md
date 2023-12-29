@@ -28,8 +28,6 @@ Firm productivity and immigrant-native earnings disparities [New version](../ass
 
 ### Selected work in progress
 
-Perceptions of ímmigrant integration: causes and consequences (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/), [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Linna Martén](https://sites.google.com/site/linnamarten/home))
-
 Deregulation of social housing (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
 
 ### Resting papers
