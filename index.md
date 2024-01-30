@@ -7,11 +7,11 @@ layout: single
 ---
 Senior researcher at [VATT Institute for Economic Research](https://vatt.fi/en/frontpage) <br/>
 Working on immigration and urban economics questions <br/>
-[CV](../assets/files/CBratu_CV_Oct_2022.pdf)
+[CV](../assets/files/CBratu_CV_Jan_2024.pdf)
 
 
 ### Publications
-[JUE insight: City-wide effects of new housing supply: Evidence from moving chains](https://www.sciencedirect.com/science/article/pii/S0094119022001048) (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/)) <em> Forthcoming, Journal of Urban Economics </em>
+[JUE insight: City-wide effects of new housing supply: Evidence from moving chains](https://www.sciencedirect.com/science/article/pii/S0094119022001048) (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/)) <em> Journal of Urban Economics, January 2023, Vo. 133. </em>
 
 [Immigrant intergenerational mobility: A focus on childhood environment](https://www.sciencedirect.com/science/article/pii/S0014292122002331?casa_token=aNXtfcnyKtcAAAAA:Tv2Pn_oKxeBz0L-7EboNVUkgbYwru7X6V5GAKFhshR4cdf2rMRP0hbdrTJihGurZJyuIY3YdXQ) (with [Valentin Bolotnyy](https://www.valentinbolotnyy.com/)) <em> European Economic Review, January 2023, Vol. 151. </em>
 
