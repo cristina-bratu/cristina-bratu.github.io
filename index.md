@@ -8,6 +8,7 @@ layout: single
 Senior researcher at [VATT Institute for Economic Research](https://vatt.fi/en/frontpage) <br/>
 Working on immigration and urban economics questions <br/>
 [CV](../assets/files/CBratu_CV_Jan_2024.pdf)
+My partner is Stefano Lombardi, also an economist. You can find his website [here](https://stefano-lombardi.github.io).
 
 
 ### Publications
