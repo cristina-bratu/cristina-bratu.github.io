@@ -34,7 +34,7 @@ Temporary or Permanent Residence Permit: Effects on Refugees' Integration Outcom
 
 ### Other writing 
 
-The urban wage premium in Finland (with [Teemu Lyytikäinen](https://sites.google.com/site/ttlyytikainen/home))
+[The urban wage premium in Finland](https://www.doria.fi/bitstream/handle/10024/190516/tpan-memorandum-2-2024-the-urban-wage-premium-in-finland.pdf?sequence=1&isAllowed=y) (with [Teemu Lyytikäinen](https://sites.google.com/site/ttlyytikainen/home))
 
 ### Resting papers
 
