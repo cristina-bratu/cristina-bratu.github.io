@@ -23,9 +23,9 @@ My partner is Stefano Lombardi, also an economist. You can find his website [her
 
 ### Working papers
 
-Firm productivity and immigrant-native earnings disparities [Latest version](../assets/files/Firm_prod_paper_May2024.pdf) [Older WP version](https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) <em> Submitted </em>
+Firm productivity and immigrant-native earnings disparities [Latest version](../assets/files/Firm_prod_paper_May2024.pdf) [Older WP version](https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson))
 
-Does younger immigrant age at arrival decrease immigrant segregation and why? Evidence from Swedish municipalities [Latest version] (../assets/files/BDKV_20250213.pdf) [Older WP version](https://www.cesifo.org/en/publikationen/2021/working-paper/age-arrival-and-residential-integration) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712), [Sebastian Kohl](https://www.sebastiankohl.com/) and Madhinee Valeyatheepillay)
+Does younger immigrant age at arrival decrease immigrant segregation and why? Evidence from Swedish municipalities [Latest version](../assets/files/BDKV_20250213.pdf) [Older WP version](https://www.cesifo.org/en/publikationen/2021/working-paper/age-arrival-and-residential-integration) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712), [Sebastian Kohl](https://www.sebastiankohl.com/) and Madhinee Valeyatheepillay)
 
 
 ### Selected work in progress
