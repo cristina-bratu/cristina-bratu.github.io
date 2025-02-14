@@ -31,7 +31,6 @@ Does younger immigrant age at arrival decrease immigrant segregation and why? Ev
 ### Selected work in progress
 Temporary or Permanent Residence Permit: Effects on Refugees' Integration Outcomes (with [Linna Martén](https://sites.google.com/site/linnamarten/home) and [Lillit Ottosson](https://sites.google.com/view/lillitottosson/home))
 
-# Deregulation of social housing (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/))
 
 ### Other writing 
 
