@@ -26,7 +26,7 @@ My partner is Stefano Lombardi, also an economist. You can find his website [her
 Firm productivity, manager origin, and immigrant-native earnings disparities [Latest version](../assets/files/Firm_prod_paper_Feb2025.pdf) [Older WP version](https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) <em> Submitted </em>
 
 
-Age at arrival and immigrant segregation: A between-siblings analysis [Latest version](../assets/files/BDKV_2025102327.pdf) [Older WP version](https://www.cesifo.org/en/publikationen/2021/working-paper/age-arrival-and-residential-integration) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712), [Sebastian Kohl](https://www.sebastiankohl.com/) and Madhinee Valeyatheepillay) <em> Revise and Resubmit, International Migration Review </em>
+Age at arrival and immigrant segregation: A between-siblings analysis [Latest version](../assets/files/BDKV_20251023.pdf) [Older WP version](https://www.cesifo.org/en/publikationen/2021/working-paper/age-arrival-and-residential-integration) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712), [Sebastian Kohl](https://www.sebastiankohl.com/) and Madhinee Valeyatheepillay) <em> Revise and Resubmit, International Migration Review </em>
 
 
 ### Selected work in progress
