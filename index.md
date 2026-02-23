@@ -12,9 +12,9 @@ My partner is Stefano Lombardi, also an economist. You can find his website [her
 
 
 ### Publications
-Age at arrival and immigrant segregation: A between-siblings analysis [Latest version](../assets/files/BDKV_20251218.pdf) [Older WP version](https://www.cesifo.org/en/publikationen/2021/working-paper/age-arrival-and-residential-integration) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712), [Sebastian Kohl](https://www.sebastiankohl.com/) and Madhinee Valeyatheepillay) <em> Accepted, International Migration Review </em>
+[Age at arrival and immigrant segregation: A between-siblings analysis] (https://journals.sagepub.com/doi/10.1177/01979183251414111) (with [Matz Dahlberg](https://katalog.uu.se/profile/?id=N94-1712), [Sebastian Kohl](https://www.sebastiankohl.com/) and Madhinee Valeyatheepillay) <em> Forthcoming, International Migration Review </em>
 
-[Individualized benefits and access to active labor market programs boost refugee women’s economic integration](https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01554/127740/Individualized-Benefits-and-Access-to-Active-Labor) (with [Linna Martén](https://sites.google.com/site/linnamarten/home) and [Lillit Ottosson](https://sites.google.com/view/lillitottosson/home)) <em> Accepted, Review of Economics and Statistics </em>
+[Individualized benefits and access to active labor market programs boost refugee women’s economic integration](https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01554/127740/Individualized-Benefits-and-Access-to-Active-Labor) (with [Linna Martén](https://sites.google.com/site/linnamarten/home) and [Lillit Ottosson](https://sites.google.com/view/lillitottosson/home)) <em> Review of Economics and Statistics, January 2025. </em>
 
 [JUE insight: City-wide effects of new housing supply: Evidence from moving chains](https://www.sciencedirect.com/science/article/pii/S0094119022001048) (with [Tuukka Saarimaa](https://sites.google.com/site/ttsaarimaa/home) and [Oskari Harjunen](https://sites.google.com/site/oskariharjunen/)) <em> Journal of Urban Economics, January 2023, Vo. 133. </em>
 
@@ -25,7 +25,7 @@ Age at arrival and immigrant segregation: A between-siblings analysis [Latest ve
 
 ### Working papers
 
-Firm productivity, manager origin, and immigrant-native earnings disparities [Latest version](../assets/files/Firm_prod_paper_July2025.pdf) [Older WP version](https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) <em> Submitted </em>
+Firm productivity, manager origin, and immigrant-native earnings disparities [Latest version](../assets/files/Firm_prod_paper_Dec2025.pdf) [Older WP version](https://www.ifau.se/Forskning/Publikationer/Working-papers/2021/firm-productivity-and-immigrant-native-earnings-disparity/) (with [Olof Åslund](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Aslund/), [Stefano Lombardi](https://stefano-lombardi.github.io/) and [Anna Thoresson](https://sites.google.com/site/abthoresson)) <em> Revise and Resubmit, Labour Economics </em>
 
 
 ### Selected work in progress
